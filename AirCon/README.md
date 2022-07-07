@@ -7,4 +7,4 @@
 > [The Code of the Air Condittioner](M242_AirCon.ino)
 
 ### Circuit
-![The circuit of the Air Condittioner](AirCon/M242_AirCon.png)
+![The circuit of the Air Condittioner](M242_AirCon.png)
