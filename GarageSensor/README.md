@@ -7,4 +7,4 @@
 > [The Code of the Garage Movement Sensor](M242_GarageMovementSensor.ino)
 
 ### Circuit
-![The circuit of the Garage Movement Sensor](GarageSensor/M242_GarageMovementSensor.png)
+![The circuit of the Garage Movement Sensor](M242_GarageMovementSensor.png)
