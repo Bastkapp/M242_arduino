@@ -7,4 +7,4 @@
 > [The Code of the Keyboard](Keyboard/Keyboard_Octave.ino)
 
 ### Circuit
-![The circuit of the Keyboard](Keyboard/M242_Keyboard-Octave.png)
+![The circuit of the Keyboard](M242_Keyboard-Octave.png)
